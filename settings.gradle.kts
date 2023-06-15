@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "HamSysTest"
-include ':app'
+include (":app")
